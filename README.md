@@ -1,2 +1,2 @@
 # My-Project
-just my training to accelerate and improve my skill
+Make anything using C++ to improve my coding skill 
